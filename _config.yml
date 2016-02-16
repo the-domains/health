@@ -1,14 +1,14 @@
-layout_spectrum: 0.4055415
-typography_spectrum: 0.2115216
+layout_spectrum: 0.6446809
+typography_spectrum: 0.4787234
 color:
   saturation: 0.01044264
-  lightness: 0.8311951
+  lightness: 0.6829787
   brandStrength: 0.8975078
-  rhythmicContrast: 0.06524029
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#89807F'
+    - '#FAFAFA'
+    - '#403B38'
+    - '#880217'
+    - '#E0A491'
+  rhythmicContrast: 0.06524029
 name: Health
